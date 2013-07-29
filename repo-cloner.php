@@ -14,6 +14,8 @@
         ,'digitalgoods'
         ,'extra_feeds'
         ,'facebook'
+        ,'google_analytics'
+        ,'google_maps'
         ,'jobboard'
         ,'jobs_attributes'
         ,'location_required'
